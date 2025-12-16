@@ -24,3 +24,7 @@ This program checks a resume text for specific skills and gives a simple strengt
 ---
 
 ## Sample Output
+*Note:*  
+- If all three skills are detected, strength = **EXCELLENT**  
+- If two skills are detected, strength = **GOOD**  
+- If fewer than two skills are detected, strength = **NEEDS IMPROVEMENT**
