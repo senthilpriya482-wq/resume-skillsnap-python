@@ -1,4 +1,4 @@
-print("RESUME SKILL CHECKER PROJECT")
+print("RESUME SKILLsnap PROJECT")
 print("(Developed using Python basics)")
 
 # Sample input
