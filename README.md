@@ -1,4 +1,4 @@
-# Resume Skill Checker
+# Resume Skillsnap
 
 **Python project to detect skills in a resume**
 
